@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @atharvashirude
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently working as an Information Security Engineer - Red Team
-- 💞️ I love Pentesting 
-- 📫 How to reach me sec.atharvashirude@gmail.com
+👋 Hi, I’m Atharva Shirude!
+
+🔒 Cybersecurity professional with expertise in penetration testing, threat modeling, incident response, and security assessments<br>
+🚀 Always learning and building security tools, automation scripts, and research projects<br>
+📫 Reach me at sec.atharvashirude@gmail.com<br>
+🔗 Blog & Write-ups: https://rootissh.in
 
 <!---
 atharvashirude/atharvashirude is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
